@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is A406-A301
+
+ Directory of C:\Users\Maddy\Desktop\Myproect
+
+03/12/2019  12:37 AM    <DIR>          .
+03/12/2019  12:37 AM    <DIR>          ..
+03/12/2019  12:37 AM                 0 prince.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  57,572,757,504 bytes free
